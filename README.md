@@ -1,1 +1,1 @@
-# Find-the-Running-Median-DATA-STRUCTURE-MEDIUM
+# Find-the-Running-Median-DATA-STRUCTURE-MEDIUM. This solution maintains two heaps - a max heap for the lower half and a min heap for the upper half of the numbers - to efficiently calculate the running median in O(log n) time per insertion by keeping the heaps balanced and using their roots to find the median.
